@@ -1,0 +1,10 @@
+C:\Users\kh\source\repos\RD Serial\RD Serial\bin\Debug\RD Serial.exe.config
+C:\Users\kh\source\repos\RD Serial\RD Serial\bin\Debug\RD Serial.exe
+C:\Users\kh\source\repos\RD Serial\RD Serial\bin\Debug\RD Serial.pdb
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD Serial.csproj.AssemblyReference.cache
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD_Serial.Form1.resources
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD_Serial.Properties.Resources.resources
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD Serial.csproj.GenerateResource.cache
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD Serial.csproj.CoreCompileInputs.cache
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD Serial.exe
+C:\Users\kh\source\repos\RD Serial\RD Serial\obj\Debug\RD Serial.pdb
